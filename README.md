@@ -10,7 +10,7 @@
 
 ## 내려받기
 
-👉 **[최신 버전 내려받기 (Releases)](../../releases/latest)** 에서 `수능영어AI과외_설치_x.x.exe` 를 받으세요.
+👉 **[최신 버전 내려받기 (Releases)](https://github.com/ilgakdang/suneung-english-pc/releases/latest)** 에서 `SuneungEnglish_Setup_x.x.exe` 를 받으세요.
 
 - Windows 10 / 11 (64비트)
 - 관리자 권한 없이 설치됩니다.
@@ -25,7 +25,7 @@
 값이 릴리스 설명의 **SHA-256** 과 같으면 변조되지 않은 파일입니다.
 
 ```
-Get-FileHash .\수능영어AI과외_설치_1.0.exe -Algorithm SHA256
+Get-FileHash .\SuneungEnglish_Setup_1.0.exe -Algorithm SHA256
 ```
 
 ## 음성이 나오지 않을 때
@@ -46,3 +46,7 @@ Get-FileHash .\수능영어AI과외_설치_1.0.exe -Algorithm SHA256
 ## 문의
 
 ilgakdang@gmail.com
+
+## 소개 글
+
+프로그램 화면과 쓰는 방법: [네이버 블로그](https://blog.naver.com/philosophy_dream/224468242364)
